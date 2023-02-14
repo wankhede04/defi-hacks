@@ -1,5 +1,4 @@
 # Defi Hacks
----
-```
-Show your :heart: with a :star:
-```
+
+Show your :heart: with a :star:.
+
